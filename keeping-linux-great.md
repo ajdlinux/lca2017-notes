@@ -123,4 +123,4 @@ End User Development
 
 * In the future - ubiquitous facilities for people to deploy stuff that they want. Some of us are going to have to build that.
 
-* #liberalsoftware
+* \#liberalsoftware
